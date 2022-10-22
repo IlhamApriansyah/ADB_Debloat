@@ -10,14 +10,18 @@ PACKAGES=(
 "com.google.android.apps.restore" 
 
 # Xiaomi Apps
-"com.android.wallpapercropper"
-"com.android.wallpaperbackup"
-"com.android.wallpaper.livepicker"
 "com.mfashiongallery.emag"
 "com.mi.android.globalFileexplorer"
 "com.miui.android.fashiongallery"
 "com.miui.bugreport"
 "com.miui.cloudbackup"
+"com.miui.fm"
+"com.jeejen.family.miui"
+"com.jeejen.knowledge"
+"com.jeejen.store"
+"com.miui.videoplayer"
+"com.miui.mipub"
+"com.xiaomi.mipicks"
 
 # samsung Apps
 "samsung.android.messaging"
@@ -95,6 +99,9 @@ PACKAGES=(
 "com.google.android.partnersetup" 
 "com.android.printspooler" 
 "com.android.calllogbackup" 
+"com.android.wallpapercropper"
+"com.android.wallpaperbackup"
+"com.android.wallpaper.livepicker"
 "com.google.android.tts" 
 "com.google.android.feedback" 
 "com.google.android.printservice.recommendation" 
@@ -162,6 +169,7 @@ PACKAGES=(
 ## keep it - non-root only (will be reinstalled on next boot) - Work Setup ## "com.android.managedprovisioning"
 "com.spotify.music" 
 "co.benx.weverse" 
+"com.android.cellbroadcastreceiver"
 
 )
 
