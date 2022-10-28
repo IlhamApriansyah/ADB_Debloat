@@ -5,7 +5,7 @@ sebuah script CMD yang digunakan untuk menghapus bloatware di Android
 
 >**Instalasi**
 
-Cukup download .zip yang ada [**disini**](www.google.com) <br>
+Cukup download .zip yang ada [**disini**](https://github.com/IlhamApriansyah/ADB_Debloat/releases/download/beta/ADB_Debloat-master.zip) <br>
 kemudian klik Debloat.cmd<p>
 >**Lakukan ini jika tidak bekerja**
 
