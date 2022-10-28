@@ -1,7 +1,12 @@
 # Debloat Script
 
 sebuah script CMD yang digunakan untuk menghapus bloatware di Android
-<br><br>
+<br>
+
+>**Smartphone yang kemungkinan bisa di debloat**
+<li> Xiaomi
+<li> Samsung
+<p>
 
 >**Instalasi**
 
