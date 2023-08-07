@@ -21,6 +21,14 @@ PACKAGES=(
 "com.jeejen.store"
 "com.miui.videoplayer"
 "com.miui.mipub"
+"com.miui.weather2"
+"com.miui.notes"
+"com.android.thememanager"
+"com.xiaomi.mipicks"
+"com.xiaomi.glgm"
+"com.miui.video"
+"com.miui.player"
+
 
 # samsung Apps
 "samsung.android.messaging"
@@ -95,6 +103,7 @@ PACKAGES=(
 
 
 # google
+"com.android.email"
 "com.google.android.partnersetup" 
 "com.android.printspooler" 
 "com.android.calllogbackup" 
@@ -118,6 +127,8 @@ PACKAGES=(
 "com.google.android.gm" 
 "com.google.android.apps.docs" 
 "com.google.android.apps.photos" 
+"com.google.android.music"
+"com.android.browser"
 
 # youtube
 ## keep it - YouTube ## "com.google.android.youtube"
